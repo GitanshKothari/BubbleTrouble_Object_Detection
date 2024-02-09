@@ -1,0 +1,15 @@
+# path: ../drive/MyDrive/
+# train: BubbleTroubleData
+# val: BubbleTroubleData
+# test:
+
+# nc: 2
+# names: ['Player', 'Bubble']
+
+path: ../data/
+train: images
+val: images
+test:
+
+nc: 2
+names: ['Player', 'Bubble']
